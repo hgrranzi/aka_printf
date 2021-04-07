@@ -17,30 +17,12 @@ The goal of the project is to write a library that contains the recoded C printf
     </td>
   </tr>
   <tr>
-    <td> <b>Managed conversions</b> </td> <td> <b>c</b><br>
-                                               <b>s</b><br>
-                                               <b>p</b><br>
-                                               <b>d</b><br>
-											   <b>i</b><br>
-											   <b>u</b><br>
-											   <b>x</b><br>
-											   <b>X</b><br>
-											   <b>n</b><br>
-                                               <b>%</b></td>
+    <td> <b>Managed conversions</b> </td> <td> <b>c s p d i u x X n %</b>
+    </td>
   </tr>
   <tr>
-    <td> <b>Managed flags</b> </td> <td> <b>c</b><br>
-                                        <b>-</b><br>
-										<b>+</b><br>
-                                        <b>0</b><br>
-                                        <b>.</b><br>
-										<b>*</b><br>
-										<b>#</b><br>
-										<b> </b><br>
-										<b>l</b><br>
-										<b>ll</b><br>
-										<b>h</b><br>
-                                        <b>hh</b></td>
+    <td> <b>Managed flags</b> </td> <td> <b>- + 0 . * # l ll h hh</b><br>
+    </td>
   </tr>
   <tr>
     <td> <b>External functions</b> </td> <td>  write, va_start, va_arg, va_end </td>

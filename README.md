@@ -1,6 +1,6 @@
 # aka_printf
 
-School 21 project
+School 21 project <br>
 Learning variadic functions
 
 ## Status

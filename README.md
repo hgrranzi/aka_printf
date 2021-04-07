@@ -5,7 +5,7 @@ Learning variadic functions
 
 ## Status
 
-IN PROGRESS
+COMPLETED
 
 ## Description
 
